@@ -1,6 +1,6 @@
 # 🙍‍♂️ Ramon Ritchely
 
-**`Automato de função`**
+**`Futuro Engenheiro de Automação`**
 ⚙
 Me chamo Ramon Ritchely, tenho 21 anos e sou natural de Minas Gerais.
 Concluir o ensino medio é logo depois me vi interesado em programção na area de automação de fução.  
