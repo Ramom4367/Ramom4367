@@ -117,7 +117,8 @@ Concluir o ensino medio é logo depois me vi interesado em programção na area 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="200"
+      width="400"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramom4367&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
